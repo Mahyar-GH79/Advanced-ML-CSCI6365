@@ -178,8 +178,8 @@ Section 13 → Final summary table & key takeaways
 
 ```
 .
-├── HM2_News_Recommendation_v3.ipynb   # Main notebook (all 12 models)
-├── HM2_Report.pdf                     # 2-page project report
+├── News_Recommendation.ipynb   # Main notebook (all 12 models)
+├── Report.pdf                     # 2-page project report
 ├── MIND_small/
 │   ├── train/
 │   │   ├── behaviors.tsv              # Training impression logs
